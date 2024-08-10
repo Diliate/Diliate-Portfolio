@@ -35,8 +35,6 @@ const Footer = () => {
         <p className="md:text-base text-sm md:font-normal font-light">
           Diliate Copyright © 2024
         </p>
-
-       
       </div>
     </footer>
   );
